@@ -1,8 +1,7 @@
-
 <!DOCTYPE html>
 <html>
-  <head>
-<title> Everyday with Isa.</title>
+  <head> 
+    <h3> Everyday with Isa.</h3>
   </head>
   <div id="contact"> 
     <p><strong>Email:</strong> isa@fashionblog.com | <strong>phone:</strong>917-555-1098 | <strong>address:</strong> 371 284th St, New York, NY, 10001</p>
@@ -26,7 +25,5 @@
   <li>The Overalls Trend</li>
   <li>Fall's It Color: Blush</li>
   </ul>
-
-
       </body>
       </html>
